@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, my name is Steve Thoennes and I work in the Service Management organization at Thomson Reuters providing 24x7 application support services and estate management services. 👋
 
 <!--
 **SteveThoennesTR/SteveThoennesTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
